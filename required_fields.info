@@ -1,0 +1,10 @@
+name = Required Fields
+description = Required fields configuration
+core = 7.x
+
+stylesheets[all][] = css/required_fields.css
+
+configure = admin/structure/required_fields
+
+core = "7.x"
+package = Fields
